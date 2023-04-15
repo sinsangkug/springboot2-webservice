@@ -1,7 +1,7 @@
 
 buildscript {
     ext {
-
+        //주석
         springBootVersion = '2.1.9.RELEASE'
     }
     repositories {
