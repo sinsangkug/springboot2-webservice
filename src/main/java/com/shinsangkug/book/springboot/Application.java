@@ -126,7 +126,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
     // @Configuration : 애플리케이션 컨텍스트를 설정하는 클래스임을 선언한다.
     // @EnableAutoConfiguration : 클래스패스(classpath)에 있는 설정 정보를 기반으로 빈을 추가한다.
     // @ComponentScan : 컴포넌트 클래스를 탐색하고 스프링 빈으로 등록한다.
-
+    //테스트
 @SpringBootApplication
 public class Application {
     public static void main(String[] args) {
