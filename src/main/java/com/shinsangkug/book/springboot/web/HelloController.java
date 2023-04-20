@@ -53,7 +53,7 @@ Spring Framework에서 RESTful 웹 서비스를 개발한다는 것은?
     https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-ann-restcontroller
  */
 @RestController
-public class HelloController {
+public class HelloController {  // 테스트 해볼 컨트롤러 클래스 !
 
     //@GetMapping 어노테이션을 사용하여 GET 요청을 처리하는 메소드임을 명시하고,
     //"/hello" 요청 경로에 대해 "hello" 문자열을 반환하는 메소드를 정의합니다.
